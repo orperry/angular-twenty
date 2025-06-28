@@ -96,7 +96,7 @@
         "deploy": {
           "builder": "angular-cli-ghpages:deploy",
           "options": {
-            "baseHref": "/ang-twenty/"
+            "baseHref": "https://orperry.com/angular-twenty/"
           }
         }
       }
